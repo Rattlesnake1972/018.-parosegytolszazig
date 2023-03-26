@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\018. parosegytolszazig\018. parosegytolszazig\bin\Debug\_018.parosegytolszazig.exe.config
+C:\Users\gratt\source\repos\018. parosegytolszazig\018. parosegytolszazig\bin\Debug\_018.parosegytolszazig.exe
+C:\Users\gratt\source\repos\018. parosegytolszazig\018. parosegytolszazig\bin\Debug\_018.parosegytolszazig.pdb
+C:\Users\gratt\source\repos\018. parosegytolszazig\018. parosegytolszazig\obj\Debug\018. parosegytolszazig.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\018. parosegytolszazig\018. parosegytolszazig\obj\Debug\_018.parosegytolszazig.exe
+C:\Users\gratt\source\repos\018. parosegytolszazig\018. parosegytolszazig\obj\Debug\_018.parosegytolszazig.pdb
